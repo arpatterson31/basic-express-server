@@ -7,8 +7,8 @@
 ## Links and Resources
 
 - [Main Branch deployed to heroku](https://audrey-basic-express-server.herokuapp.com/)
-- [ci/cd](http://xyz.com)
-- [Pull Request dev to main](http://xyz.com)
+- [ci/cd](https://github.com/arpatterson31/basic-express-server/actions)
+- [Pull Request dev to main](https://github.com/arpatterson31/basic-express-server/pull/1)
 
 ### Setup
 
